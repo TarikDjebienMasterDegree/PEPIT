@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="189" lt="123" ts="1361113763716" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="5060">
+  <httpSample t="123" lt="123" ts="1361113763716" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="65" lt="65" ts="1361113763840" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="294" lt="218" ts="1361113763621" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5060">
+  <httpSample t="218" lt="218" ts="1361113763621" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="75" lt="75" ts="1361113763840" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="173" lt="99" ts="1361113763820" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="5060">
+  <httpSample t="99" lt="99" ts="1361113763820" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="73" lt="73" ts="1361113763920" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="157" lt="93" ts="1361113763939" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="5060">
+  <httpSample t="93" lt="93" ts="1361113763939" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="64" lt="64" ts="1361113764032" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="163" lt="101" ts="1361113764021" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="5060">
+  <httpSample t="101" lt="101" ts="1361113764021" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="62" lt="62" ts="1361113764122" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="153" lt="98" ts="1361113764122" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="5060">
+  <httpSample t="98" lt="98" ts="1361113764122" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361113764220" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="204" lt="109" ts="1361113764237" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="5060">
+  <httpSample t="109" lt="109" ts="1361113764237" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="94" lt="94" ts="1361113764347" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="173" lt="101" ts="1361113764342" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="5060">
+  <httpSample t="101" lt="101" ts="1361113764342" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="64" lt="64" ts="1361113764451" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="172" lt="110" ts="1361113764437" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="5060">
+  <httpSample t="110" lt="110" ts="1361113764437" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="61" lt="61" ts="1361113764548" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="164" lt="99" ts="1361113764542" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="5060">
+  <httpSample t="99" lt="99" ts="1361113764542" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="65" lt="65" ts="1361113764641" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="161" lt="96" ts="1361113764638" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="5060">
+  <httpSample t="96" lt="96" ts="1361113764638" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="64" lt="64" ts="1361113764735" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="162" lt="100" ts="1361113764742" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="5060">
+  <httpSample t="100" lt="100" ts="1361113764742" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="61" lt="61" ts="1361113764843" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="152" lt="92" ts="1361113764839" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="5060">
+  <httpSample t="92" lt="92" ts="1361113764839" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="60" lt="60" ts="1361113764931" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="200" lt="103" ts="1361113764940" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="5060">
+  <httpSample t="103" lt="103" ts="1361113764940" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="96" lt="96" ts="1361113765044" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="166" lt="100" ts="1361113765038" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="5060">
+  <httpSample t="100" lt="100" ts="1361113765038" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="66" lt="66" ts="1361113765138" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="160" lt="101" ts="1361113765142" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="5060">
+  <httpSample t="101" lt="101" ts="1361113765142" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361113765243" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="183" lt="96" ts="1361113765237" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="5060">
+  <httpSample t="96" lt="96" ts="1361113765237" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="87" lt="87" ts="1361113765333" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="181" lt="127" ts="1361113765342" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="5060">
+  <httpSample t="127" lt="127" ts="1361113765342" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361113765469" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="207" lt="139" ts="1361113765442" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="5060">
+  <httpSample t="139" lt="139" ts="1361113765442" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="67" lt="67" ts="1361113765582" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="215" lt="156" ts="1361113765541" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="5060">
+  <httpSample t="156" lt="156" ts="1361113765541" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="58" lt="58" ts="1361113765698" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="173" lt="118" ts="1361113765645" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="5060">
+  <httpSample t="118" lt="118" ts="1361113765645" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361113765763" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="162" lt="91" ts="1361113765742" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="5060">
+  <httpSample t="91" lt="91" ts="1361113765742" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="71" lt="71" ts="1361113765833" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="159" lt="104" ts="1361113765846" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361113765846" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361113765950" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="162" lt="105" ts="1361113765944" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="5060">
+  <httpSample t="105" lt="105" ts="1361113765944" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361113766049" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="163" lt="105" ts="1361113766046" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="5060">
+  <httpSample t="105" lt="105" ts="1361113766046" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="58" lt="58" ts="1361113766151" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="172" lt="98" ts="1361113766146" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="5060">
+  <httpSample t="98" lt="98" ts="1361113766146" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="74" lt="74" ts="1361113766244" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="182" lt="115" ts="1361113766246" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="5060">
+  <httpSample t="115" lt="115" ts="1361113766246" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="67" lt="67" ts="1361113766361" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="157" lt="101" ts="1361113766346" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="5060">
+  <httpSample t="101" lt="101" ts="1361113766346" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361113766448" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="208" lt="145" ts="1361113766447" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="5060">
+  <httpSample t="145" lt="145" ts="1361113766447" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="63" lt="63" ts="1361113766592" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="171" lt="114" ts="1361113766547" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="5060">
+  <httpSample t="114" lt="114" ts="1361113766547" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="56" lt="56" ts="1361113766662" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="160" lt="101" ts="1361113766648" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="5060">
+  <httpSample t="101" lt="101" ts="1361113766648" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361113766749" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="189" lt="114" ts="1361113766748" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="5060">
+  <httpSample t="114" lt="114" ts="1361113766748" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="74" lt="74" ts="1361113766863" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="154" lt="101" ts="1361113766849" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="5060">
+  <httpSample t="101" lt="101" ts="1361113766849" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361113766950" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="195" lt="104" ts="1361113766950" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361113766950" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="90" lt="90" ts="1361113767055" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="168" lt="102" ts="1361113767050" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="5060">
+  <httpSample t="102" lt="102" ts="1361113767050" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="65" lt="65" ts="1361113767153" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="166" lt="107" ts="1361113767155" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="5060">
+  <httpSample t="107" lt="107" ts="1361113767155" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="58" lt="58" ts="1361113767263" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="151" lt="96" ts="1361113767251" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="5060">
+  <httpSample t="96" lt="96" ts="1361113767251" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361113767348" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="154" lt="95" ts="1361113767351" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="5060">
+  <httpSample t="95" lt="95" ts="1361113767351" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361113767446" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="146" lt="89" ts="1361113767454" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="5060">
+  <httpSample t="89" lt="89" ts="1361113767454" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361113767547" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="166" lt="103" ts="1361113767555" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="5060">
+  <httpSample t="103" lt="103" ts="1361113767555" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="62" lt="62" ts="1361113767659" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="165" lt="112" ts="1361113767656" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="5060">
+  <httpSample t="112" lt="112" ts="1361113767656" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361113767768" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="153" lt="94" ts="1361113767756" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="5060">
+  <httpSample t="94" lt="94" ts="1361113767756" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361113767850" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="158" lt="104" ts="1361113767856" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361113767856" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361113767960" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="158" lt="104" ts="1361113767957" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361113767957" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361113768062" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="151" lt="96" ts="1361113768058" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="5060">
+  <httpSample t="96" lt="96" ts="1361113768058" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361113768154" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="186" lt="108" ts="1361113768160" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="5060">
+  <httpSample t="108" lt="108" ts="1361113768160" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="77" lt="77" ts="1361113768269" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="159" lt="105" ts="1361113768259" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="5060">
+  <httpSample t="105" lt="105" ts="1361113768259" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361113768364" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="145" lt="90" ts="1361113768362" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="5060">
+  <httpSample t="90" lt="90" ts="1361113768362" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361113768452" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="178" lt="119" ts="1361113768462" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="5060">
+  <httpSample t="119" lt="119" ts="1361113768462" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361113768581" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="156" lt="104" ts="1361113768563" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361113768563" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="52" lt="52" ts="1361113768667" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="152" lt="93" ts="1361113768661" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-51" dt="text" by="5060">
+  <httpSample t="93" lt="93" ts="1361113768661" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361113768754" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-51" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="153" lt="94" ts="1361113768864" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-53" dt="text" by="5060">
+  <httpSample t="94" lt="94" ts="1361113768864" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="58" lt="58" ts="1361113768959" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-53" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="147" lt="93" ts="1361113768965" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-54" dt="text" by="5060">
+  <httpSample t="93" lt="93" ts="1361113768965" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361113769058" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-54" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="160" lt="103" ts="1361113769066" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-55" dt="text" by="5060">
+  <httpSample t="103" lt="103" ts="1361113769066" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361113769169" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-55" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="470" lt="108" ts="1361113768763" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-52" dt="text" by="5060">
+  <httpSample t="108" lt="108" ts="1361113768763" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="361" lt="361" ts="1361113768872" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-52" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="159" lt="98" ts="1361113769166" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-56" dt="text" by="5060">
+  <httpSample t="98" lt="98" ts="1361113769166" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="61" lt="61" ts="1361113769264" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-56" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="172" lt="101" ts="1361113769269" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-57" dt="text" by="5060">
+  <httpSample t="101" lt="101" ts="1361113769269" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="71" lt="71" ts="1361113769370" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-57" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="177" lt="122" ts="1361113769369" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-58" dt="text" by="5060">
+  <httpSample t="122" lt="122" ts="1361113769369" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361113769492" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-58" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="158" lt="103" ts="1361113769468" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-59" dt="text" by="5060">
+  <httpSample t="103" lt="103" ts="1361113769468" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361113769571" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-59" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="162" lt="92" ts="1361113769569" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-60" dt="text" by="5060">
+  <httpSample t="92" lt="92" ts="1361113769569" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="70" lt="70" ts="1361113769661" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-60" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="174" lt="118" ts="1361113769671" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-61" dt="text" by="5060">
+  <httpSample t="118" lt="118" ts="1361113769671" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361113769790" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-61" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="175" lt="104" ts="1361113769772" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-62" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361113769772" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="70" lt="70" ts="1361113769877" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-62" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="193" lt="105" ts="1361113769873" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-63" dt="text" by="5060">
+  <httpSample t="105" lt="105" ts="1361113769873" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="88" lt="88" ts="1361113769978" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-63" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="181" lt="124" ts="1361113769976" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-64" dt="text" by="5060">
+  <httpSample t="124" lt="124" ts="1361113769976" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="56" lt="56" ts="1361113770101" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-64" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="147" lt="93" ts="1361113770078" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-65" dt="text" by="5060">
+  <httpSample t="93" lt="93" ts="1361113770078" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361113770171" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-65" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="189" lt="123" ts="1361113770175" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-66" dt="text" by="5060">
+  <httpSample t="123" lt="123" ts="1361113770175" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="66" lt="66" ts="1361113770298" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-66" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="168" lt="114" ts="1361113770277" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-67" dt="text" by="5060">
+  <httpSample t="114" lt="114" ts="1361113770277" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361113770391" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-67" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="161" lt="101" ts="1361113770376" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-68" dt="text" by="5060">
+  <httpSample t="101" lt="101" ts="1361113770376" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361113770478" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-68" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="167" lt="111" ts="1361113770476" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-69" dt="text" by="5060">
+  <httpSample t="111" lt="111" ts="1361113770476" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361113770588" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-69" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="155" lt="101" ts="1361113770577" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-70" dt="text" by="5060">
+  <httpSample t="101" lt="101" ts="1361113770577" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361113770678" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-70" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="151" lt="92" ts="1361113770681" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-71" dt="text" by="5060">
+  <httpSample t="92" lt="92" ts="1361113770681" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361113770773" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-71" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="153" lt="99" ts="1361113770779" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-72" dt="text" by="5060">
+  <httpSample t="99" lt="99" ts="1361113770779" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361113770878" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-72" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="147" lt="92" ts="1361113770881" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-73" dt="text" by="5060">
+  <httpSample t="92" lt="92" ts="1361113770881" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361113770974" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-73" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="191" lt="105" ts="1361113770983" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-74" dt="text" by="5060">
+  <httpSample t="105" lt="105" ts="1361113770983" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="86" lt="86" ts="1361113771088" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-74" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="160" lt="97" ts="1361113771083" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-75" dt="text" by="5060">
+  <httpSample t="97" lt="97" ts="1361113771083" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="63" lt="63" ts="1361113771180" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-75" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="166" lt="113" ts="1361113771188" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-76" dt="text" by="5060">
+  <httpSample t="113" lt="113" ts="1361113771188" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="52" lt="51" ts="1361113771302" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-76" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="174" lt="90" ts="1361113771284" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-77" dt="text" by="5060">
+  <httpSample t="90" lt="90" ts="1361113771284" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="84" lt="84" ts="1361113771374" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-77" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="180" lt="128" ts="1361113771384" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-78" dt="text" by="5060">
+  <httpSample t="128" lt="128" ts="1361113771384" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="52" lt="52" ts="1361113771512" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-78" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="159" lt="100" ts="1361113771485" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-79" dt="text" by="5060">
+  <httpSample t="100" lt="100" ts="1361113771485" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361113771585" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-79" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="154" lt="93" ts="1361113771587" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-80" dt="text" by="5060">
+  <httpSample t="93" lt="93" ts="1361113771587" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="61" lt="61" ts="1361113771680" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-80" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="175" lt="112" ts="1361113771686" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-81" dt="text" by="5060">
+  <httpSample t="112" lt="112" ts="1361113771686" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="63" lt="63" ts="1361113771798" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-81" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="157" lt="102" ts="1361113771787" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-82" dt="text" by="5060">
+  <httpSample t="102" lt="102" ts="1361113771787" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="53" ts="1361113771890" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-82" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="192" lt="107" ts="1361113771887" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-83" dt="text" by="5060">
+  <httpSample t="107" lt="107" ts="1361113771887" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="85" lt="85" ts="1361113771994" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-83" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="175" lt="116" ts="1361113772007" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-84" dt="text" by="5060">
+  <httpSample t="116" lt="116" ts="1361113772007" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361113772123" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-84" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="162" lt="104" ts="1361113772090" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-85" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361113772090" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361113772195" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-85" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="173" lt="108" ts="1361113772192" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-86" dt="text" by="5060">
+  <httpSample t="108" lt="108" ts="1361113772192" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="65" lt="65" ts="1361113772300" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-86" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="157" lt="104" ts="1361113772290" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-87" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361113772290" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361113772394" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-87" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="156" lt="101" ts="1361113772391" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-88" dt="text" by="5060">
+  <httpSample t="101" lt="101" ts="1361113772391" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="54" ts="1361113772492" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-88" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="169" lt="106" ts="1361113772491" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-89" dt="text" by="5060">
+  <httpSample t="106" lt="106" ts="1361113772491" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="63" lt="63" ts="1361113772597" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-89" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="156" lt="98" ts="1361113772597" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-90" dt="text" by="5060">
+  <httpSample t="98" lt="98" ts="1361113772597" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="58" lt="58" ts="1361113772695" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-90" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="184" lt="101" ts="1361113772694" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-91" dt="text" by="5060">
+  <httpSample t="101" lt="101" ts="1361113772694" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="82" lt="82" ts="1361113772796" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-91" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="174" lt="114" ts="1361113772793" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-92" dt="text" by="5060">
+  <httpSample t="114" lt="114" ts="1361113772793" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="60" lt="60" ts="1361113772907" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-92" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="170" lt="116" ts="1361113772895" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-93" dt="text" by="5060">
+  <httpSample t="116" lt="116" ts="1361113772895" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361113773012" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-93" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="174" lt="105" ts="1361113772995" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-94" dt="text" by="5060">
+  <httpSample t="105" lt="105" ts="1361113772995" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="69" lt="69" ts="1361113773100" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-94" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="206" lt="125" ts="1361113773096" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-95" dt="text" by="5060">
+  <httpSample t="125" lt="125" ts="1361113773096" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="80" lt="80" ts="1361113773222" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-95" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="172" lt="109" ts="1361113773196" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-96" dt="text" by="5060">
+  <httpSample t="109" lt="109" ts="1361113773196" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="62" lt="62" ts="1361113773306" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-96" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="154" lt="96" ts="1361113773299" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-97" dt="text" by="5060">
+  <httpSample t="96" lt="96" ts="1361113773299" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361113773396" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-97" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="174" lt="118" ts="1361113773397" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-98" dt="text" by="5060">
+  <httpSample t="118" lt="118" ts="1361113773397" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="56" lt="56" ts="1361113773515" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-98" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="147" lt="93" ts="1361113773499" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-99" dt="text" by="5060">
+  <httpSample t="93" lt="93" ts="1361113773499" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361113773593" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-99" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="152" lt="97" ts="1361113773601" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-100" dt="text" by="5060">
+  <httpSample t="97" lt="97" ts="1361113773601" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="54" ts="1361113773698" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-100" dt="text" by="4864"/>
+</httpSample>
+
+<httpSample t="552" lt="220" ts="1361114022076" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="5060">
+  <httpSample t="220" lt="220" ts="1361114022076" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="332" lt="332" ts="1361114022296" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="490" lt="412" ts="1361114022276" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="5060">
+  <httpSample t="412" lt="412" ts="1361114022276" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="78" lt="78" ts="1361114022688" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="414" lt="358" ts="1361114022367" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="5060">
+  <httpSample t="358" lt="358" ts="1361114022367" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="56" lt="56" ts="1361114022725" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="315" lt="258" ts="1361114022476" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="5060">
+  <httpSample t="258" lt="258" ts="1361114022476" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361114022734" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="229" lt="170" ts="1361114022569" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="5060">
+  <httpSample t="170" lt="170" ts="1361114022569" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361114022739" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="204" lt="122" ts="1361114022677" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="5060">
+  <httpSample t="122" lt="122" ts="1361114022677" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="82" lt="82" ts="1361114022799" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="234" lt="117" ts="1361114022773" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="5060">
+  <httpSample t="117" lt="117" ts="1361114022773" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="117" lt="117" ts="1361114022890" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="203" lt="130" ts="1361114022878" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="5060">
+  <httpSample t="130" lt="130" ts="1361114022878" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="73" lt="73" ts="1361114023008" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="159" lt="100" ts="1361114023079" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="5060">
+  <httpSample t="100" lt="100" ts="1361114023079" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361114023179" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1451" lt="363" ts="1361114021863" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5060">
+  <httpSample t="363" lt="363" ts="1361114021863" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="1088" lt="594" ts="1361114022226" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="172" lt="113" ts="1361114023174" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="5060">
+  <httpSample t="114" lt="113" ts="1361114023174" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="58" lt="58" ts="1361114023288" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="203" lt="102" ts="1361114023279" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="5060">
+  <httpSample t="102" lt="102" ts="1361114023279" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="100" lt="100" ts="1361114023382" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="217" lt="149" ts="1361114023380" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="5060">
+  <httpSample t="149" lt="149" ts="1361114023380" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="67" lt="66" ts="1361114023530" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="160" lt="105" ts="1361114023480" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="5060">
+  <httpSample t="105" lt="105" ts="1361114023480" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114023586" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="157" lt="100" ts="1361114023578" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="5060">
+  <httpSample t="100" lt="100" ts="1361114023578" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="56" lt="55" ts="1361114023679" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="186" lt="102" ts="1361114023682" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="5060">
+  <httpSample t="102" lt="102" ts="1361114023682" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="83" lt="83" ts="1361114023785" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="170" lt="93" ts="1361114023782" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="5060">
+  <httpSample t="93" lt="93" ts="1361114023782" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="77" lt="77" ts="1361114023875" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="182" lt="126" ts="1361114023887" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="5060">
+  <httpSample t="126" lt="126" ts="1361114023887" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361114024014" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="179" lt="104" ts="1361114023981" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361114023981" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="75" lt="75" ts="1361114024085" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="178" lt="122" ts="1361114024087" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="5060">
+  <httpSample t="122" lt="122" ts="1361114024087" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="56" lt="56" ts="1361114024209" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="158" lt="104" ts="1361114024183" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361114024183" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114024287" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="162" lt="103" ts="1361114024291" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="5060">
+  <httpSample t="103" lt="103" ts="1361114024291" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361114024394" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="190" lt="133" ts="1361114024387" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="5060">
+  <httpSample t="133" lt="133" ts="1361114024387" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361114024520" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="158" lt="97" ts="1361114024492" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="5060">
+  <httpSample t="97" lt="97" ts="1361114024492" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="61" lt="61" ts="1361114024589" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="160" lt="93" ts="1361114024586" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="5060">
+  <httpSample t="93" lt="93" ts="1361114024586" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="67" lt="67" ts="1361114024679" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="181" lt="127" ts="1361114024687" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="5060">
+  <httpSample t="127" lt="127" ts="1361114024687" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361114024815" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="243" lt="129" ts="1361114024787" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="5060">
+  <httpSample t="129" lt="129" ts="1361114024787" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="114" lt="114" ts="1361114024916" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="203" lt="140" ts="1361114024890" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="5060">
+  <httpSample t="140" lt="140" ts="1361114024890" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="62" lt="61" ts="1361114025031" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="3187" lt="3130" ts="1361114021964" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="5060">
+  <httpSample t="3130" lt="3130" ts="1361114021964" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361114025096" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="175" lt="121" ts="1361114024989" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="5060">
+  <httpSample t="121" lt="121" ts="1361114024989" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114025110" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="186" lt="109" ts="1361114025092" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="5060">
+  <httpSample t="110" lt="109" ts="1361114025092" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="76" lt="76" ts="1361114025202" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="207" lt="128" ts="1361114025191" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="5060">
+  <httpSample t="128" lt="128" ts="1361114025191" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="79" lt="79" ts="1361114025319" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="3291" lt="3158" ts="1361114022166" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="5060">
+  <httpSample t="3158" lt="3158" ts="1361114022166" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="132" lt="132" ts="1361114025325" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="172" lt="116" ts="1361114025301" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="5060">
+  <httpSample t="116" lt="116" ts="1361114025301" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="56" lt="56" ts="1361114025417" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="165" lt="102" ts="1361114025394" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="5060">
+  <httpSample t="102" lt="102" ts="1361114025394" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="63" lt="63" ts="1361114025496" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="186" lt="114" ts="1361114025492" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="5060">
+  <httpSample t="114" lt="114" ts="1361114025492" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="72" lt="72" ts="1361114025606" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="184" lt="129" ts="1361114025598" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="5060">
+  <httpSample t="129" lt="129" ts="1361114025598" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361114025727" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="184" lt="108" ts="1361114025693" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="5060">
+  <httpSample t="108" lt="108" ts="1361114025693" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="76" lt="76" ts="1361114025801" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="186" lt="108" ts="1361114025797" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="5060">
+  <httpSample t="108" lt="108" ts="1361114025797" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="78" lt="78" ts="1361114025905" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="209" lt="108" ts="1361114025897" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="5060">
+  <httpSample t="108" lt="108" ts="1361114025897" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="101" lt="101" ts="1361114026005" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="3161" lt="3104" ts="1361114022974" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="5060">
+  <httpSample t="3104" lt="3104" ts="1361114022974" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361114026080" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="144" lt="92" ts="1361114025996" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="5060">
+  <httpSample t="92" lt="92" ts="1361114025996" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="51" lt="51" ts="1361114026089" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="163" lt="100" ts="1361114026097" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="5060">
+  <httpSample t="100" lt="100" ts="1361114026097" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="62" lt="62" ts="1361114026198" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="174" lt="122" ts="1361114026198" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="5060">
+  <httpSample t="122" lt="122" ts="1361114026198" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="52" lt="52" ts="1361114026320" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="171" lt="107" ts="1361114026298" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="5060">
+  <httpSample t="107" lt="107" ts="1361114026298" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="63" lt="63" ts="1361114026406" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="171" lt="118" ts="1361114026403" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="5060">
+  <httpSample t="118" lt="118" ts="1361114026403" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361114026521" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="155" lt="100" ts="1361114026500" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="5060">
+  <httpSample t="100" lt="100" ts="1361114026500" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361114026600" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="165" lt="110" ts="1361114026604" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="5060">
+  <httpSample t="110" lt="110" ts="1361114026604" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361114026714" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="153" lt="99" ts="1361114026703" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="5060">
+  <httpSample t="99" lt="99" ts="1361114026703" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114026802" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="156" lt="100" ts="1361114026807" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="5060">
+  <httpSample t="100" lt="100" ts="1361114026807" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361114026908" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="143" lt="92" ts="1361114026904" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-51" dt="text" by="5060">
+  <httpSample t="92" lt="92" ts="1361114026904" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="51" lt="51" ts="1361114026996" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-51" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="168" lt="116" ts="1361114027006" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-52" dt="text" by="5060">
+  <httpSample t="116" lt="116" ts="1361114027006" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="52" lt="52" ts="1361114027122" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-52" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="149" lt="95" ts="1361114027109" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-53" dt="text" by="5060">
+  <httpSample t="95" lt="95" ts="1361114027109" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114027204" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-53" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="170" lt="117" ts="1361114027208" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-54" dt="text" by="5060">
+  <httpSample t="117" lt="117" ts="1361114027208" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361114027325" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-54" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="158" lt="105" ts="1361114027309" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-55" dt="text" by="5060">
+  <httpSample t="105" lt="105" ts="1361114027309" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361114027414" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-55" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="145" lt="91" ts="1361114027409" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-56" dt="text" by="5060">
+  <httpSample t="91" lt="91" ts="1361114027409" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114027500" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-56" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="210" lt="158" ts="1361114027510" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-57" dt="text" by="5060">
+  <httpSample t="158" lt="158" ts="1361114027510" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="52" lt="52" ts="1361114027668" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-57" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="181" lt="126" ts="1361114027609" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-58" dt="text" by="5060">
+  <httpSample t="126" lt="126" ts="1361114027609" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114027736" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-58" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="188" lt="99" ts="1361114027710" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-59" dt="text" by="5060">
+  <httpSample t="99" lt="99" ts="1361114027710" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="89" lt="89" ts="1361114027809" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-59" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="181" lt="128" ts="1361114027812" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-60" dt="text" by="5060">
+  <httpSample t="128" lt="128" ts="1361114027812" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361114027940" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-60" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="165" lt="103" ts="1361114027913" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-61" dt="text" by="5060">
+  <httpSample t="103" lt="103" ts="1361114027913" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="60" lt="60" ts="1361114028018" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-61" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="181" lt="98" ts="1361114028014" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-62" dt="text" by="5060">
+  <httpSample t="98" lt="98" ts="1361114028014" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="82" lt="82" ts="1361114028113" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-62" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="264" lt="130" ts="1361114028119" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-63" dt="text" by="5060">
+  <httpSample t="130" lt="130" ts="1361114028119" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="133" lt="133" ts="1361114028250" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-63" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1671" lt="1428" ts="1361114028218" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-64" dt="text" by="5060">
+  <httpSample t="1428" lt="1428" ts="1361114028218" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="242" lt="242" ts="1361114029647" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-64" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1690" lt="1588" ts="1361114028318" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-65" dt="text" by="5060">
+  <httpSample t="1588" lt="1588" ts="1361114028318" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="102" lt="102" ts="1361114029906" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-65" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1297" lt="1188" ts="1361114028720" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-69" dt="text" by="5060">
+  <httpSample t="1188" lt="1188" ts="1361114028720" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="109" lt="109" ts="1361114029908" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-69" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1202" lt="1094" ts="1361114028820" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-70" dt="text" by="5060">
+  <httpSample t="1094" lt="1094" ts="1361114028820" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="108" lt="108" ts="1361114029914" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-70" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1106" lt="1000" ts="1361114028922" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-71" dt="text" by="5060">
+  <httpSample t="1000" lt="1000" ts="1361114028922" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="106" lt="106" ts="1361114029922" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-71" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1016" lt="904" ts="1361114029023" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-72" dt="text" by="5060">
+  <httpSample t="904" lt="904" ts="1361114029023" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="111" lt="111" ts="1361114029928" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-72" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="926" lt="815" ts="1361114029123" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-73" dt="text" by="5060">
+  <httpSample t="815" lt="815" ts="1361114029123" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="111" lt="111" ts="1361114029938" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-73" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="831" lt="721" ts="1361114029223" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-74" dt="text" by="5060">
+  <httpSample t="721" lt="721" ts="1361114029223" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="110" lt="110" ts="1361114029944" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-74" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="734" lt="629" ts="1361114029325" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-75" dt="text" by="5060">
+  <httpSample t="629" lt="629" ts="1361114029325" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="105" lt="105" ts="1361114029954" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-75" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="644" lt="534" ts="1361114029425" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-76" dt="text" by="5060">
+  <httpSample t="534" lt="534" ts="1361114029425" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="110" lt="110" ts="1361114029959" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-76" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="551" lt="440" ts="1361114029526" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-77" dt="text" by="5060">
+  <httpSample t="440" lt="440" ts="1361114029526" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="111" lt="111" ts="1361114029966" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-77" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="468" lt="347" ts="1361114029627" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-78" dt="text" by="5060">
+  <httpSample t="347" lt="347" ts="1361114029627" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="121" lt="121" ts="1361114029974" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-78" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="415" lt="281" ts="1361114029728" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-79" dt="text" by="5060">
+  <httpSample t="281" lt="281" ts="1361114029728" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="133" lt="133" ts="1361114030010" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-79" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="458" lt="214" ts="1361114029829" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-80" dt="text" by="5060">
+  <httpSample t="214" lt="214" ts="1361114029829" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="244" lt="244" ts="1361114030043" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-80" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="623" lt="341" ts="1361114029930" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-81" dt="text" by="5060">
+  <httpSample t="341" lt="341" ts="1361114029930" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="281" lt="281" ts="1361114030272" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-81" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="728" lt="497" ts="1361114030034" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-82" dt="text" by="5060">
+  <httpSample t="497" lt="497" ts="1361114030034" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="231" lt="231" ts="1361114030531" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-82" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1161" lt="560" ts="1361114030133" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-83" dt="text" by="5060">
+  <httpSample t="560" lt="560" ts="1361114030133" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="601" lt="601" ts="1361114030693" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-83" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1370" lt="967" ts="1361114030334" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-85" dt="text" by="5060">
+  <httpSample t="967" lt="967" ts="1361114030334" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="403" lt="403" ts="1361114031301" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-85" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1275" lt="871" ts="1361114030434" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-86" dt="text" by="5060">
+  <httpSample t="871" lt="871" ts="1361114030434" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="404" lt="404" ts="1361114031305" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-86" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1321" lt="978" ts="1361114030735" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-89" dt="text" by="5060">
+  <httpSample t="978" lt="978" ts="1361114030735" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="343" lt="343" ts="1361114031713" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-89" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1391" lt="821" ts="1361114030937" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-91" dt="text" by="5060">
+  <httpSample t="821" lt="821" ts="1361114030937" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="569" lt="569" ts="1361114031759" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-91" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1489" lt="725" ts="1361114031039" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-92" dt="text" by="5060">
+  <httpSample t="725" lt="725" ts="1361114031039" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="764" lt="764" ts="1361114031764" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-92" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1528" lt="790" ts="1361114031139" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-93" dt="text" by="5060">
+  <httpSample t="790" lt="790" ts="1361114031139" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="737" lt="737" ts="1361114031930" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-93" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1533" lt="696" ts="1361114031240" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-94" dt="text" by="5060">
+  <httpSample t="696" lt="696" ts="1361114031240" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="837" lt="837" ts="1361114031936" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-94" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="1844" lt="1027" ts="1361114031544" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-97" dt="text" by="5060">
+  <httpSample t="1027" lt="1027" ts="1361114031544" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="817" lt="817" ts="1361114032571" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-97" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="4950" lt="3954" ts="1361114028621" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-68" dt="text" by="5060">
+  <httpSample t="3954" lt="3954" ts="1361114028621" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="996" lt="996" ts="1361114032575" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-68" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="4667" lt="4262" ts="1361114031442" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-96" dt="text" by="5060">
+  <httpSample t="4262" lt="4262" ts="1361114031442" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="405" lt="405" ts="1361114035704" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-96" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="6064" lt="3631" ts="1361114030232" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-84" dt="text" by="5060">
+  <httpSample t="3631" lt="3631" ts="1361114030232" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="2431" lt="2431" ts="1361114033865" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-84" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="7862" lt="7034" ts="1361114028518" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-67" dt="text" by="5060">
+  <httpSample t="7034" lt="7034" ts="1361114028518" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="828" lt="828" ts="1361114035552" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-67" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="4745" lt="931" ts="1361114031646" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-98" dt="text" by="5060">
+  <httpSample t="931" lt="931" ts="1361114031646" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="3813" lt="1502" ts="1361114032578" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-98" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="4666" lt="3942" ts="1361114031746" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-99" dt="text" by="5060">
+  <httpSample t="3942" lt="3942" ts="1361114031746" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="723" lt="723" ts="1361114035689" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-99" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="8156" lt="7966" ts="1361114028421" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-66" dt="text" by="5060">
+  <httpSample t="7966" lt="7966" ts="1361114028421" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="190" lt="190" ts="1361114036387" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-66" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="7780" lt="6741" ts="1361114030837" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-90" dt="text" by="5060">
+  <httpSample t="6741" lt="6741" ts="1361114030837" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="1039" lt="1039" ts="1361114037578" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-90" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="8167" lt="865" ts="1361114030535" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-87" dt="text" by="5060">
+  <httpSample t="865" lt="865" ts="1361114030535" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="7302" lt="2954" ts="1361114031400" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-87" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="7094" lt="6950" ts="1361114031846" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-100" dt="text" by="5060">
+  <httpSample t="6950" lt="6950" ts="1361114031846" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="142" lt="142" ts="1361114038798" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-100" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="13716" lt="3469" ts="1361114030635" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-88" dt="text" by="5060">
+  <httpSample t="3469" lt="3469" ts="1361114030635" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="10247" lt="4914" ts="1361114034104" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-88" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="14824" lt="9563" ts="1361114031341" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-95" dt="text" by="5060">
+  <httpSample t="9563" lt="9563" ts="1361114031341" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="5260" lt="5259" ts="1361114040905" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-95" dt="text" by="4864"/>
+</httpSample>
+
+<httpSample t="195" lt="136" ts="1361114187674" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5060">
+  <httpSample t="136" lt="136" ts="1361114187674" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361114187810" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="174" lt="96" ts="1361114187775" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="5060">
+  <httpSample t="96" lt="96" ts="1361114187775" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="78" lt="78" ts="1361114187871" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="155" lt="102" ts="1361114187900" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="5060">
+  <httpSample t="102" lt="102" ts="1361114187900" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361114188002" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="150" lt="94" ts="1361114187986" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="5060">
+  <httpSample t="94" lt="94" ts="1361114187986" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="56" lt="56" ts="1361114188080" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="178" lt="119" ts="1361114188103" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="5060">
+  <httpSample t="119" lt="119" ts="1361114188103" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="58" lt="58" ts="1361114188223" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="178" lt="118" ts="1361114188185" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="5060">
+  <httpSample t="118" lt="118" ts="1361114188185" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361114188304" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="167" lt="104" ts="1361114188304" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361114188304" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="63" lt="63" ts="1361114188408" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="188" lt="103" ts="1361114188387" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="5060">
+  <httpSample t="103" lt="103" ts="1361114188387" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="84" lt="84" ts="1361114188491" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="205" lt="151" ts="1361114188507" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="5060">
+  <httpSample t="151" lt="151" ts="1361114188507" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114188658" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="150" lt="95" ts="1361114188596" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="5060">
+  <httpSample t="95" lt="95" ts="1361114188596" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114188692" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="212" lt="95" ts="1361114188703" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="5060">
+  <httpSample t="95" lt="95" ts="1361114188703" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="117" lt="117" ts="1361114188798" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="210" lt="136" ts="1361114188785" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="5060">
+  <httpSample t="136" lt="136" ts="1361114188785" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="74" lt="74" ts="1361114188921" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="184" lt="97" ts="1361114188906" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="5060">
+  <httpSample t="97" lt="97" ts="1361114188906" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="87" lt="87" ts="1361114189003" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="167" lt="106" ts="1361114188988" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="5060">
+  <httpSample t="106" lt="106" ts="1361114188988" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="61" lt="61" ts="1361114189094" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="171" lt="113" ts="1361114189109" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="5060">
+  <httpSample t="113" lt="113" ts="1361114189109" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361114189223" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="153" lt="93" ts="1361114189189" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="5060">
+  <httpSample t="93" lt="93" ts="1361114189189" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="60" lt="60" ts="1361114189282" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="191" lt="133" ts="1361114189309" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="5060">
+  <httpSample t="133" lt="133" ts="1361114189309" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361114189443" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="180" lt="121" ts="1361114189389" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="5060">
+  <httpSample t="121" lt="121" ts="1361114189389" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="58" lt="58" ts="1361114189511" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="153" lt="99" ts="1361114189509" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="5060">
+  <httpSample t="99" lt="99" ts="1361114189509" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114189608" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="185" lt="131" ts="1361114189590" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="5060">
+  <httpSample t="131" lt="131" ts="1361114189590" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114189721" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="154" lt="101" ts="1361114189713" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="5060">
+  <httpSample t="101" lt="101" ts="1361114189713" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="52" lt="52" ts="1361114189815" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="207" lt="115" ts="1361114189795" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="5060">
+  <httpSample t="115" lt="115" ts="1361114189795" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="92" lt="92" ts="1361114189910" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="195" lt="142" ts="1361114189913" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="5060">
+  <httpSample t="142" lt="142" ts="1361114189913" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361114190055" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="146" lt="92" ts="1361114189996" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="5060">
+  <httpSample t="92" lt="92" ts="1361114189996" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361114190089" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="178" lt="121" ts="1361114190114" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="5060">
+  <httpSample t="121" lt="121" ts="1361114190114" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="56" lt="56" ts="1361114190236" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="167" lt="108" ts="1361114190198" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="5060">
+  <httpSample t="108" lt="108" ts="1361114190198" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="58" lt="58" ts="1361114190307" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="158" lt="104" ts="1361114190315" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361114190315" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114190419" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="150" lt="91" ts="1361114190398" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="5060">
+  <httpSample t="91" lt="91" ts="1361114190398" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="58" lt="58" ts="1361114190490" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="195" lt="138" ts="1361114190515" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="5060">
+  <httpSample t="138" lt="138" ts="1361114190515" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361114190653" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="209" lt="130" ts="1361114190601" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="5060">
+  <httpSample t="130" lt="130" ts="1361114190601" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="79" lt="79" ts="1361114190731" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="216" lt="150" ts="1361114190715" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="5060">
+  <httpSample t="150" lt="150" ts="1361114190715" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="66" lt="66" ts="1361114190865" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="184" lt="119" ts="1361114190800" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="5060">
+  <httpSample t="119" lt="119" ts="1361114190800" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="65" lt="65" ts="1361114190919" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="151" lt="93" ts="1361114190915" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="5060">
+  <httpSample t="93" lt="93" ts="1361114190915" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361114191009" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="186" lt="118" ts="1361114191000" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="5060">
+  <httpSample t="118" lt="118" ts="1361114191000" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="67" lt="67" ts="1361114191119" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="155" lt="98" ts="1361114191117" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="5060">
+  <httpSample t="98" lt="98" ts="1361114191117" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361114191215" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="149" lt="96" ts="1361114191204" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="5060">
+  <httpSample t="96" lt="96" ts="1361114191204" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361114191300" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="195" lt="135" ts="1361114191316" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="5060">
+  <httpSample t="135" lt="135" ts="1361114191316" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="60" lt="60" ts="1361114191451" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="177" lt="124" ts="1361114191403" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="5060">
+  <httpSample t="124" lt="124" ts="1361114191403" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361114191527" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="170" lt="101" ts="1361114191516" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="5060">
+  <httpSample t="101" lt="101" ts="1361114191516" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="69" lt="69" ts="1361114191617" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="181" lt="127" ts="1361114191605" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="5060">
+  <httpSample t="127" lt="127" ts="1361114191605" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114191732" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="209" lt="99" ts="1361114191717" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="5060">
+  <httpSample t="99" lt="99" ts="1361114191717" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="110" lt="110" ts="1361114191816" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="209" lt="124" ts="1361114191810" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="5060">
+  <httpSample t="124" lt="124" ts="1361114191810" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="85" lt="85" ts="1361114191934" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="221" lt="115" ts="1361114191918" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="5060">
+  <httpSample t="115" lt="115" ts="1361114191918" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="106" lt="106" ts="1361114192033" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="147" lt="92" ts="1361114192011" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="5060">
+  <httpSample t="92" lt="92" ts="1361114192011" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114192104" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="185" lt="99" ts="1361114192124" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="5060">
+  <httpSample t="99" lt="99" ts="1361114192124" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="86" lt="86" ts="1361114192223" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="188" lt="132" ts="1361114192212" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="5060">
+  <httpSample t="132" lt="132" ts="1361114192212" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="56" lt="56" ts="1361114192344" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="157" lt="91" ts="1361114192324" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="5060">
+  <httpSample t="91" lt="91" ts="1361114192324" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="65" lt="65" ts="1361114192416" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="194" lt="135" ts="1361114192412" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="5060">
+  <httpSample t="135" lt="135" ts="1361114192412" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361114192547" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="224" lt="114" ts="1361114192525" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="5060">
+  <httpSample t="114" lt="114" ts="1361114192525" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="109" lt="109" ts="1361114192640" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="149" lt="94" ts="1361114192614" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="5060">
+  <httpSample t="94" lt="94" ts="1361114192614" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361114192708" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="173" lt="114" ts="1361114192726" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-51" dt="text" by="5060">
+  <httpSample t="114" lt="114" ts="1361114192726" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361114192840" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-51" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="161" lt="109" ts="1361114192816" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-52" dt="text" by="5060">
+  <httpSample t="109" lt="109" ts="1361114192816" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="52" lt="52" ts="1361114192925" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-52" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="161" lt="103" ts="1361114192926" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-53" dt="text" by="5060">
+  <httpSample t="103" lt="103" ts="1361114192926" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="58" lt="58" ts="1361114193029" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-53" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="188" lt="130" ts="1361114193017" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-54" dt="text" by="5060">
+  <httpSample t="130" lt="130" ts="1361114193017" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="58" lt="58" ts="1361114193147" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-54" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="213" lt="114" ts="1361114193126" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-55" dt="text" by="5060">
+  <httpSample t="114" lt="114" ts="1361114193126" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="98" lt="98" ts="1361114193241" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-55" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="164" lt="107" ts="1361114193218" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-56" dt="text" by="5060">
+  <httpSample t="107" lt="107" ts="1361114193218" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361114193325" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-56" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="195" lt="139" ts="1361114193327" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-57" dt="text" by="5060">
+  <httpSample t="139" lt="139" ts="1361114193327" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="56" lt="56" ts="1361114193466" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-57" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="199" lt="142" ts="1361114193421" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-58" dt="text" by="5060">
+  <httpSample t="142" lt="142" ts="1361114193421" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361114193563" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-58" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="176" lt="98" ts="1361114193527" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-59" dt="text" by="5060">
+  <httpSample t="98" lt="98" ts="1361114193527" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="77" lt="77" ts="1361114193626" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-59" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="189" lt="136" ts="1361114193622" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-60" dt="text" by="5060">
+  <httpSample t="136" lt="136" ts="1361114193622" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361114193758" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-60" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="206" lt="113" ts="1361114193729" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-61" dt="text" by="5060">
+  <httpSample t="113" lt="113" ts="1361114193729" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="93" lt="93" ts="1361114193842" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-61" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="171" lt="104" ts="1361114193823" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-62" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361114193823" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="67" lt="67" ts="1361114193927" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-62" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="188" lt="128" ts="1361114193929" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-63" dt="text" by="5060">
+  <httpSample t="128" lt="128" ts="1361114193929" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="60" lt="60" ts="1361114194057" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-63" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="174" lt="108" ts="1361114194025" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-64" dt="text" by="5060">
+  <httpSample t="108" lt="108" ts="1361114194025" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="66" lt="66" ts="1361114194133" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-64" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="166" lt="108" ts="1361114194131" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-65" dt="text" by="5060">
+  <httpSample t="108" lt="108" ts="1361114194131" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="58" lt="58" ts="1361114194239" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-65" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="170" lt="110" ts="1361114194227" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-66" dt="text" by="5060">
+  <httpSample t="110" lt="110" ts="1361114194227" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="60" lt="60" ts="1361114194337" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-66" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="149" lt="95" ts="1361114194330" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-67" dt="text" by="5060">
+  <httpSample t="95" lt="95" ts="1361114194330" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="54" lt="54" ts="1361114194425" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-67" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="187" lt="103" ts="1361114194429" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-68" dt="text" by="5060">
+  <httpSample t="103" lt="103" ts="1361114194429" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="84" lt="84" ts="1361114194532" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-68" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="181" lt="121" ts="1361114194530" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-69" dt="text" by="5060">
+  <httpSample t="121" lt="121" ts="1361114194530" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361114194652" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-69" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="158" lt="105" ts="1361114194631" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-70" dt="text" by="5060">
+  <httpSample t="105" lt="105" ts="1361114194631" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361114194736" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-70" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="173" lt="117" ts="1361114194732" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-71" dt="text" by="5060">
+  <httpSample t="117" lt="117" ts="1361114194732" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="56" lt="56" ts="1361114194849" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-71" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="156" lt="104" ts="1361114194833" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-72" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361114194833" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="52" lt="52" ts="1361114194937" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-72" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="177" lt="102" ts="1361114194934" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-73" dt="text" by="5060">
+  <httpSample t="102" lt="102" ts="1361114194934" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="74" lt="74" ts="1361114195037" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-73" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="186" lt="105" ts="1361114195034" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-74" dt="text" by="5060">
+  <httpSample t="105" lt="105" ts="1361114195034" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="81" lt="81" ts="1361114195139" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-74" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="178" lt="126" ts="1361114195135" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-75" dt="text" by="5060">
+  <httpSample t="126" lt="126" ts="1361114195135" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="52" lt="52" ts="1361114195261" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-75" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="194" lt="103" ts="1361114195235" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-76" dt="text" by="5060">
+  <httpSample t="103" lt="103" ts="1361114195235" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="91" lt="91" ts="1361114195338" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-76" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="179" lt="104" ts="1361114195336" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-77" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361114195336" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="74" lt="74" ts="1361114195441" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-77" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="146" lt="93" ts="1361114195437" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-78" dt="text" by="5060">
+  <httpSample t="93" lt="93" ts="1361114195437" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361114195530" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-78" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="187" lt="101" ts="1361114195537" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-79" dt="text" by="5060">
+  <httpSample t="101" lt="101" ts="1361114195537" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="86" lt="86" ts="1361114195638" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-79" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="209" lt="141" ts="1361114195639" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-80" dt="text" by="5060">
+  <httpSample t="141" lt="141" ts="1361114195639" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="68" lt="68" ts="1361114195780" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-80" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="160" lt="104" ts="1361114195738" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-81" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361114195738" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361114195843" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-81" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="170" lt="92" ts="1361114195838" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-82" dt="text" by="5060">
+  <httpSample t="92" lt="92" ts="1361114195838" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="78" lt="78" ts="1361114195930" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-82" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="179" lt="127" ts="1361114195939" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-83" dt="text" by="5060">
+  <httpSample t="127" lt="127" ts="1361114195939" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="52" lt="52" ts="1361114196066" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-83" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="178" lt="103" ts="1361114196039" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-84" dt="text" by="5060">
+  <httpSample t="103" lt="103" ts="1361114196039" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="75" lt="75" ts="1361114196142" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-84" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="159" lt="100" ts="1361114196140" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-85" dt="text" by="5060">
+  <httpSample t="100" lt="100" ts="1361114196140" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361114196240" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-85" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="178" lt="120" ts="1361114196241" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-86" dt="text" by="5060">
+  <httpSample t="120" lt="120" ts="1361114196241" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361114196362" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-86" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="151" lt="94" ts="1361114196341" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-87" dt="text" by="5060">
+  <httpSample t="94" lt="94" ts="1361114196341" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="56" lt="56" ts="1361114196436" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-87" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="187" lt="109" ts="1361114196442" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-88" dt="text" by="5060">
+  <httpSample t="109" lt="109" ts="1361114196442" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="78" lt="78" ts="1361114196551" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-88" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="187" lt="104" ts="1361114196542" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-89" dt="text" by="5060">
+  <httpSample t="104" lt="104" ts="1361114196542" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="83" lt="83" ts="1361114196646" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-89" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="175" lt="116" ts="1361114196643" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-90" dt="text" by="5060">
+  <httpSample t="116" lt="116" ts="1361114196643" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="59" lt="59" ts="1361114196759" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-90" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="179" lt="121" ts="1361114196744" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-91" dt="text" by="5060">
+  <httpSample t="121" lt="121" ts="1361114196744" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="57" lt="57" ts="1361114196866" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-91" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="166" lt="113" ts="1361114196844" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-92" dt="text" by="5060">
+  <httpSample t="113" lt="113" ts="1361114196844" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="53" lt="53" ts="1361114196957" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-92" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="166" lt="107" ts="1361114196945" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-93" dt="text" by="5060">
+  <httpSample t="107" lt="107" ts="1361114196945" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="58" lt="58" ts="1361114197053" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-93" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="183" lt="115" ts="1361114197046" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-94" dt="text" by="5060">
+  <httpSample t="115" lt="115" ts="1361114197046" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="68" lt="68" ts="1361114197161" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-94" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="270" lt="114" ts="1361114197146" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-95" dt="text" by="5060">
+  <httpSample t="114" lt="114" ts="1361114197146" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="156" lt="156" ts="1361114197260" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-95" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="372" lt="316" ts="1361114197247" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-96" dt="text" by="5060">
+  <httpSample t="316" lt="316" ts="1361114197247" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361114197564" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-96" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="335" lt="283" ts="1361114197348" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-97" dt="text" by="5060">
+  <httpSample t="283" lt="283" ts="1361114197348" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="52" lt="52" ts="1361114197631" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-97" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="245" lt="190" ts="1361114197448" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-98" dt="text" by="5060">
+  <httpSample t="190" lt="190" ts="1361114197448" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361114197638" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-98" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="189" lt="114" ts="1361114197550" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-99" dt="text" by="5060">
+  <httpSample t="114" lt="114" ts="1361114197550" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="74" lt="74" ts="1361114197665" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-99" dt="text" by="4864"/>
+</httpSample>
+<httpSample t="196" lt="141" ts="1361114197650" s="true" lb="Requête HTTP - Homepage" rc="200" rm="OK" tn="Thread Group 1-100" dt="text" by="5060">
+  <httpSample t="141" lt="141" ts="1361114197650" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat" rc="302" rm="Déplacé Temporairement" tn="" dt="" by="196"/>
+  <httpSample t="55" lt="55" ts="1361114197791" s="true" lb="http://pepit2.fil.univ-lille1.fr:8080/proxystat/" rc="200" rm="OK" tn="Thread Group 1-100" dt="text" by="4864"/>
+</httpSample>
+
+</testResults>
